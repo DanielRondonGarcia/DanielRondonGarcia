@@ -9,7 +9,7 @@
 * 💬 Ask me about automations
 * 📫 How to reach me: <daniel5232010@gmail.com>
 * ⚡ Fun fact: 
-* i created my [portfolio website](https://laylacodes.github.io/) from scratch 
+* [portfolio website](https://DanielRondonGarcia.github.io/)
 
 <!-- ## projects
 
