@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **daniel5232010@gmail.com**
 
+- <a href="https://danielrondongarcia.github.io/" target="blank">🌎 About me</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/daniel5232010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="daniel5232010" height="30" width="40" /></a>
