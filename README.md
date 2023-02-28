@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Rondón</h1>
-<h3 align="center"> I'm a UDI college student from Colombia! </h3>
+<h3 align="center"> I am a software engineer from Colombia! </h3>
 
 - 🔭 I’m currently working on **Gametor esports**
 
