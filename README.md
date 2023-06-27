@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://codepen.io/daniel5232010" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   <a href="https://twitter.com/daniel5232010" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
-  <a href="[https://twitter.com/daniel5232010](https://codepen.io/daniel5232010)" target="blank"><img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=FF0000&logoColor=0d1117&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  /></a>
+  <a href="https://codepen.io/daniel5232010" target="_blank"><img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  /></a>
 </div>
 
 ###
