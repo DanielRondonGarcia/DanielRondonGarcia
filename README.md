@@ -1,5 +1,5 @@
-<div style="width: 100%; max-width: 100vw; text-align: center; overflow: hidden; height: 120px;">
-  <img style="width: 100%; height: 100%; object-fit: cover;" src="https://media.licdn.com/dms/image/D4E16AQGxDQBxNlHIJg/profile-displaybackgroundimage-shrink_350_1400/0/1690250476585?e=1717632000&v=beta&t=HhlurEovCXMpcY1A7G6ON6oq4KtdqGZF5PDQrCi1YJo" />
+<div style="width: 100%; max-width: 100vw; text-align: center; overflow: hidden;">
+  <img style="width: 100%; margin-bottom: -30px;" src="https://media.licdn.com/dms/image/D4E16AQGxDQBxNlHIJg/profile-displaybackgroundimage-shrink_350_1400/0/1690250476585?e=1717632000&v=beta&t=HhlurEovCXMpcY1A7G6ON6oq4KtdqGZF5PDQrCi1YJo" />
 </div>
 
 ###
