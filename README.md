@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/D4E16AQGxDQBxNlHIJg/profile-displaybackgroundimage-shrink_350_1400/0/1690250476585?e=1717632000&v=beta&t=HhlurEovCXMpcY1A7G6ON6oq4KtdqGZF5PDQrCi1YJo"  />
+<div style="width: 100%; max-width: 100vw; text-align: center;">
+  <img style="width: 100%; height: auto; max-width: 100%;" src="https://media.licdn.com/dms/image/D4E16AQGxDQBxNlHIJg/profile-displaybackgroundimage-shrink_350_1400/0/1690250476585?e=1717632000&v=beta&t=HhlurEovCXMpcY1A7G6ON6oq4KtdqGZF5PDQrCi1YJo" />
 </div>
 
 ###
@@ -17,8 +17,6 @@
 </div>
 
 ###
-
-<h1 align="center">Hi 👋, I'm Daniel Rondón</h1>
 <h3 align="center"> I am a software engineer from Colombia! </h3>
 
 - 🔭 I’m currently working on **Gametor esports**
