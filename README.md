@@ -1,18 +1,23 @@
-<div style="width: 100%; max-width: 100vw; text-align: center; overflow: hidden;">
-  <img style="width: 100%; margin-bottom: -30px;" src="https://media.licdn.com/dms/image/D4E16AQGxDQBxNlHIJg/profile-displaybackgroundimage-shrink_350_1400/0/1690250476585?e=1717632000&v=beta&t=HhlurEovCXMpcY1A7G6ON6oq4KtdqGZF5PDQrCi1YJo" />
-  <div style="padding-bottom: 5px;">
-    <a href="https://www.linkedin.com/in/daniel-rondon-garcia/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-    </a>
-    <a href="https://twitter.com/daniel5232010" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-    </a>
-    <a href="https://codepen.io/daniel5232010" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo" />
-    </a>
+<div style="width: 100%; max-width: 100vw; text-align: center; overflow: hidden; position: relative;">
+  <img style="width: 100%;" src="https://media.licdn.com/dms/image/D4E16AQGxDQBxNlHIJg/profile-displaybackgroundimage-shrink_350_1400/0/1690250476585?e=1717632000&v=beta&t=HhlurEovCXMpcY1A7G6ON6oq4KtdqGZF5PDQrCi1YJo" />
+  <div style="position: absolute; bottom: 5px; width: 100%;">
+    <div style="display: inline-block; margin: 0 5px;">
+      <a href="https://www.linkedin.com/in/daniel-rondon-garcia/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+      </a>
+    </div>
+    <div style="display: inline-block; margin: 0 5px;">
+      <a href="https://twitter.com/daniel5232010" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+      </a>
+    </div>
+    <div style="display: inline-block; margin: 0 5px;">
+      <a href="https://codepen.io/daniel5232010" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo" />
+      </a>
+    </div>
   </div>
 </div>
-
 
 ###
 
